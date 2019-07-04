@@ -44,9 +44,3 @@ if(pconverone>3.5 && pconverone<=5){
 
   }
 
-
-void conteo(){
-   
-    Serial.print(random(100));
-    }
-
